@@ -1,0 +1,2 @@
+# softtechnova
+Internship Tasks
